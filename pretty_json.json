@@ -1,0 +1,1938 @@
+{
+    "id": "86enw80ya",
+    "custom_id": null,
+    "custom_item_id": 0,
+    "name": "SES Company ID",
+    "text_content": "Requestor's E-mail::\njdineros@expertcollege.com",
+    "description": "Requestor's E-mail::\njdineros@expertcollege.com",
+    "status": {
+        "status": "in progress",
+        "color": "#e16b16",
+        "type": "custom",
+        "orderindex": 2
+    },
+    "orderindex": "40517763.00026880000000000000000000000000",
+    "date_created": "1710746885935",
+    "date_updated": "1710818037668",
+    "date_closed": null,
+    "date_done": null,
+    "archived": false,
+    "creator": {
+        "id": 55710078,
+        "username": "Jennilyn B. Dineros",
+        "color": "#304ffe",
+        "email": "jdineros@expertcollege.com",
+        "profilePicture": null
+    },
+    "assignees": [
+        {
+            "id": 5856593,
+            "username": "Jenica Elaikem Acasio",
+            "color": "#622aea",
+            "initials": "JA",
+            "email": "jacasio@expertcollege.com",
+            "profilePicture": "https://attachments.clickup.com/profilePictures/5856593_Kmg.jpg"
+        }
+    ],
+    "group_assignees": [],
+    "watchers": [
+        {
+            "id": 32195122,
+            "username": "Elvie Barangan",
+            "color": "#aa2fff",
+            "initials": "EB",
+            "email": "ebarangan@expertcollege.com",
+            "profilePicture": null
+        },
+        {
+            "id": 55710078,
+            "username": "Jennilyn B. Dineros",
+            "color": "#304ffe",
+            "initials": "JD",
+            "email": "jdineros@expertcollege.com",
+            "profilePicture": null
+        },
+        {
+            "id": 5856593,
+            "username": "Jenica Elaikem Acasio",
+            "color": "#622aea",
+            "initials": "JA",
+            "email": "jacasio@expertcollege.com",
+            "profilePicture": "https://attachments.clickup.com/profilePictures/5856593_Kmg.jpg"
+        },
+        {
+            "id": -1,
+            "username": "ClickBot",
+            "color": "#827718",
+            "initials": "C",
+            "email": "clickbot@clickup.com",
+            "profilePicture": "https://attachments.clickup.com/t1242830/995c776f-cdb7-4dc0-87ab-d65221824835/clickbot.svg"
+        }
+    ],
+    "checklists": [],
+    "tags": [],
+    "parent": null,
+    "priority": {
+        "color": "#f8ae00",
+        "id": "2",
+        "orderindex": "2",
+        "priority": "high"
+    },
+    "due_date": "1711051200000",
+    "start_date": "1710792000000",
+    "points": null,
+    "time_estimate": null,
+    "custom_fields": [
+        {
+            "id": "275b31bf-cc21-4c0d-9026-c9fa73db9c48",
+            "name": "Rate the content quality:",
+            "type": "drop_down",
+            "type_config": {
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "8c100feb-a952-42dc-a0aa-e9efa139cb40",
+                        "name": "Excellent",
+                        "color": "#fff",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "9f9b0be1-36e4-4ae1-8a0b-4bc75159b22f",
+                        "name": "Good",
+                        "color": null,
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "8142bb96-e57a-465f-86df-cfb6befd1973",
+                        "name": "Average",
+                        "color": null,
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "2b0ff13f-8b5e-4e42-ae57-b6126c0f76f9",
+                        "name": "Below average",
+                        "color": null,
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "a942e13d-5e40-4ce4-b6e4-817bdb9a12de",
+                        "name": "Poor",
+                        "color": null,
+                        "orderindex": 4
+                    }
+                ]
+            },
+            "date_created": "1682581428703",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "5219e2cb-c7fb-415e-8ccb-835d6effab01",
+            "name": "Interest Level in Video Editing",
+            "type": "emoji",
+            "type_config": {
+                "count": 5,
+                "code_point": "2b50"
+            },
+            "date_created": "1710309800242",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "c83d9cd7-8ec4-421e-bf63-bcee3dea4430",
+            "name": "Video Size",
+            "type": "drop_down",
+            "type_config": {
+                "options": [
+                    {
+                        "id": "510f7048-bfd4-4f04-bc75-bb296ef92e45",
+                        "name": "1920 x 1080 (Lanscape)",
+                        "color": null,
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "5cbcfd86-970d-4a61-95ec-1765aa2a7c6e",
+                        "name": "1080 x 1350 px (Reel Size for IG / FB)",
+                        "color": null,
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "ae22ac25-e762-49bf-9d68-29b350a33208",
+                        "name": "1080 x 1080 px (Square for Instagram)",
+                        "color": null,
+                        "orderindex": 2
+                    }
+                ]
+            },
+            "date_created": "1710312060784",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "e442ef43-836e-4485-a4b6-058cf95f50c7",
+            "name": "Activity",
+            "type": "labels",
+            "type_config": {
+                "options": [
+                    {
+                        "id": "ed579828-2a5a-4fdd-ab0b-6c1487630931",
+                        "label": "Graphic Design",
+                        "color": null
+                    },
+                    {
+                        "id": "fa8d7b80-2cd4-454d-a63a-ac905278f0ed",
+                        "label": "Redesign",
+                        "color": null
+                    },
+                    {
+                        "id": "00783457-c53a-457d-847e-f67b5772f423",
+                        "label": "Labelling",
+                        "color": null
+                    },
+                    {
+                        "id": "53c91206-42d2-4d7b-a0ac-b7998166cff9",
+                        "label": "Illustration",
+                        "color": null
+                    },
+                    {
+                        "id": "491d7c1d-a384-401a-aac7-a0b4fb7587ff",
+                        "label": "Workshop",
+                        "color": "#AF7E2E"
+                    },
+                    {
+                        "id": "347f709f-4e0a-4bce-8591-b2b214447539",
+                        "label": "Leaves/Time Offs/Holidays",
+                        "color": "#EA80FC"
+                    },
+                    {
+                        "id": "91f08ad5-298b-4721-90a7-ab5c666d3d61",
+                        "label": "Meetings",
+                        "color": "#800000"
+                    }
+                ]
+            },
+            "date_created": "1699968086113",
+            "hide_from_guests": false,
+            "value": [
+                "ed579828-2a5a-4fdd-ab0b-6c1487630931"
+            ],
+            "required": false
+        },
+        {
+            "id": "2ad707dc-286b-4bab-98fe-b79e9c6b57cc",
+            "name": "Coordinator",
+            "type": "drop_down",
+            "type_config": {
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "4601d5a8-c9e0-4938-9f52-8166bf2d467a",
+                        "name": "Ben",
+                        "color": "#AF7E2E",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "dea416c2-ad77-43a6-a4da-cb269cca4cd0",
+                        "name": "Janne",
+                        "color": "#0231E8",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "326530e1-62fe-41f0-865e-8a97718df0c2",
+                        "name": "Sanne",
+                        "color": "#FF7FAB",
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "7849c357-cd25-41aa-83a0-43c102c84658",
+                        "name": "Justino",
+                        "color": "#2ecd6f",
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "9760b0b1-b50e-4a7a-b52e-91d18229e90b",
+                        "name": "Mutya",
+                        "color": "#02BCD4",
+                        "orderindex": 4
+                    },
+                    {
+                        "id": "76c670b4-5bd9-4c83-b1aa-25e209c363ef",
+                        "name": "Adrian",
+                        "color": "#800000",
+                        "orderindex": 5
+                    },
+                    {
+                        "id": "132b00e1-0ca8-4687-8c15-f422ba476b50",
+                        "name": "Stefan",
+                        "color": "#81B1FF",
+                        "orderindex": 6
+                    },
+                    {
+                        "id": "6e628b75-b97f-4f60-a67f-9388484a72aa",
+                        "name": "Tina",
+                        "color": "#f900ea",
+                        "orderindex": 7
+                    },
+                    {
+                        "id": "ec31cefe-5da0-45ba-a41a-f983f99bcaf4",
+                        "name": "Asaf",
+                        "color": "#f9d900",
+                        "orderindex": 8
+                    },
+                    {
+                        "id": "96ee789b-1593-4e92-8a29-41876dcf8892",
+                        "name": "Martijn",
+                        "color": "#AF7E2E",
+                        "orderindex": 9
+                    },
+                    {
+                        "id": "0b01da95-43f3-4177-81fe-5671e6bf06ae",
+                        "name": "Demi",
+                        "color": "#e50000",
+                        "orderindex": 10
+                    },
+                    {
+                        "id": "3d44514d-438e-4569-b979-e4fa6f5d0e9f",
+                        "name": "Edz",
+                        "color": "#ff7800",
+                        "orderindex": 11
+                    },
+                    {
+                        "id": "722a01ce-9d8f-472e-845d-97ff034a12f3",
+                        "name": "Ingrid",
+                        "color": "#667684",
+                        "orderindex": 12
+                    },
+                    {
+                        "id": "4cc74553-56ff-4f7a-874f-6002651a34b7",
+                        "name": "Romy",
+                        "color": "#b5bcc2",
+                        "orderindex": 13
+                    },
+                    {
+                        "id": "c1b63c27-4281-403b-a938-bef6d8fd8c36",
+                        "name": "Linya",
+                        "color": "#000000",
+                        "orderindex": 14
+                    },
+                    {
+                        "id": "3f707c0a-2cd5-4403-9049-2e5125bf3874",
+                        "name": "Jisca",
+                        "color": "#F83A7D",
+                        "orderindex": 15
+                    },
+                    {
+                        "id": "b778deba-a0fa-451c-b820-6a130d5966a7",
+                        "name": "Veronica",
+                        "color": "#81B1FF",
+                        "orderindex": 16
+                    },
+                    {
+                        "id": "86d29ee5-754e-4df7-b1b4-05f7aa38e92d",
+                        "name": "HR",
+                        "color": "#FF7FAB",
+                        "orderindex": 17
+                    },
+                    {
+                        "id": "3ed665de-6978-4f5a-9705-b26cb5c82be3",
+                        "name": "Claudette",
+                        "color": "#B70483",
+                        "orderindex": 18
+                    },
+                    {
+                        "id": "1c23a27b-4c83-4e1b-9f28-cb6aa73bec4f",
+                        "name": "Jacque",
+                        "color": "#0118E7",
+                        "orderindex": 19
+                    },
+                    {
+                        "id": "f5f9cafe-3c1d-431e-ac4b-b2302e7dee03",
+                        "name": "Gergana",
+                        "color": "#81B1FF",
+                        "orderindex": 20
+                    },
+                    {
+                        "id": "f779b71c-b063-4b5d-a573-e3c39fe2988b",
+                        "name": "Apple",
+                        "color": "#e50000",
+                        "orderindex": 21
+                    },
+                    {
+                        "id": "3c0293e0-0928-4588-b0f1-7ccda3e86a3b",
+                        "name": "Yasemin",
+                        "color": "#bf55ec",
+                        "orderindex": 22
+                    }
+                ]
+            },
+            "date_created": "1617003182247",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "00eee264-779c-4112-9614-692c2a73b7fa",
+            "name": "Comments on ClickUp navigation?",
+            "type": "text",
+            "type_config": {},
+            "date_created": "1617003376821",
+            "hide_from_guests": false,
+            "value": "Please edit & create the Company ID of Sarah Jane Camo\u00f1as",
+            "required": false
+        },
+        {
+            "id": "93882ba1-d592-4923-83b4-d4304468b82d",
+            "name": "Sharepoint File Link",
+            "type": "url",
+            "type_config": {},
+            "date_created": "1617003472638",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "01c839d4-9d8c-415a-b926-c89452887bc8",
+            "name": "E-MAIL",
+            "type": "email",
+            "type_config": {},
+            "date_created": "1623835487716",
+            "hide_from_guests": false,
+            "value": "jdineros@expertcollege.com",
+            "required": false
+        },
+        {
+            "id": "5f114e44-9eef-48ca-af76-90f9c2334bbd",
+            "name": "COMPLEXITY",
+            "type": "drop_down",
+            "type_config": {
+                "default": 0,
+                "placeholder": null,
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "5026b39f-b7a1-4f87-a997-95598950d0a4",
+                        "name": "EASY (1-3 days)",
+                        "color": "#02BCD4",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "cbe9fcb4-f16b-4238-af06-280dcdbc743a",
+                        "name": "MEDIUM (4-5 days)",
+                        "color": "#3082B7",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "bbc1b22c-f41d-44b9-b4d4-8dba752a4f76",
+                        "name": "HARD (6+ days)",
+                        "color": "#071f7c",
+                        "orderindex": 2
+                    }
+                ]
+            },
+            "date_created": "1646033630568",
+            "hide_from_guests": false,
+            "value": 0,
+            "required": false
+        },
+        {
+            "id": "1d3e6aec-f204-435c-b66c-03214d92020f",
+            "name": "Sharepoint Link",
+            "type": "url",
+            "type_config": {},
+            "date_created": "1646976343179",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "82b69d70-7817-4bad-8023-c0f33ec174ab",
+            "name": "PROGRESS",
+            "type": "automatic_progress",
+            "type_config": {
+                "tracking": {
+                    "subtasks": true,
+                    "checklists": true,
+                    "assigned_comments": true
+                },
+                "complete_on": 3,
+                "subtask_rollup": false
+            },
+            "date_created": "1656385949934",
+            "hide_from_guests": false,
+            "value": {
+                "percent_complete": 0
+            },
+            "required": false
+        },
+        {
+            "id": "03880b9a-0906-4e0a-94f9-a7e19a99bc40",
+            "name": "Course ID",
+            "type": "number",
+            "type_config": {},
+            "date_created": "1663237130582",
+            "hide_from_guests": false,
+            "required": false
+        },
+        {
+            "id": "7de9d323-1b8d-4b71-a3b8-547369240eb4",
+            "name": "Department",
+            "type": "drop_down",
+            "type_config": {
+                "options": [
+                    {
+                        "id": "c4d3ecb9-f71c-45c7-9548-79f2cc73d577",
+                        "name": "Marketing",
+                        "color": null,
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "6e3300a8-d3ce-4088-865d-bcdc991b5f30",
+                        "name": "HR",
+                        "color": null,
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "ba704414-42ca-45e7-87b0-c7f8069371c1",
+                        "name": "Product Management/Coordination",
+                        "color": null,
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "023e2e9a-8416-4306-841c-ee9f0486f0b5",
+                        "name": "Board",
+                        "color": null,
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "ba18697f-430f-42c5-84e0-084869f4f4b0",
+                        "name": "Business Development Management",
+                        "color": null,
+                        "orderindex": 4
+                    },
+                    {
+                        "id": "6ad1115e-4c56-4621-839d-f215a1582f38",
+                        "name": "Customer Service/Support",
+                        "color": null,
+                        "orderindex": 5
+                    },
+                    {
+                        "id": "9f9c71b3-54fe-4108-883a-a2dc8771585e",
+                        "name": "Cost of Sales",
+                        "color": null,
+                        "orderindex": 6
+                    },
+                    {
+                        "id": "df46ba0d-e820-4d52-9802-c95608225547",
+                        "name": "Training Coordination",
+                        "color": null,
+                        "orderindex": 7
+                    },
+                    {
+                        "id": "f7d04ae2-66f7-4f30-9590-c7ba4f7cc990",
+                        "name": "Facilities",
+                        "color": null,
+                        "orderindex": 8
+                    },
+                    {
+                        "id": "2f3cf51c-be3d-4260-9423-47b8b62a8208",
+                        "name": "Finance & Accounting",
+                        "color": null,
+                        "orderindex": 9
+                    },
+                    {
+                        "id": "b6bd2234-2927-4483-b602-c8b15859dc70",
+                        "name": "ICT",
+                        "color": null,
+                        "orderindex": 10
+                    },
+                    {
+                        "id": "eb719b4b-cb02-478f-ae9a-784e8c304472",
+                        "name": "Training Administration",
+                        "color": null,
+                        "orderindex": 11
+                    },
+                    {
+                        "id": "e3bd66f3-a9d6-4388-a7ca-e4e3a842e511",
+                        "name": "Xpedite",
+                        "color": null,
+                        "orderindex": 12
+                    },
+                    {
+                        "id": "38f61888-2b25-42d4-b89e-43e6701d5017",
+                        "name": "Other",
+                        "color": null,
+                        "orderindex": 13
+                    }
+                ]
+            },
+            "date_created": "1699967450757",
+            "hide_from_guests": true,
+            "value": 1,
+            "required": false
+        },
+        {
+            "id": "3eba206f-3bf7-426f-9608-6584a074367c",
+            "name": "COMPANY (FOR FINANCE)",
+            "type": "drop_down",
+            "type_config": {
+                "default": 0,
+                "placeholder": null,
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "4b073945-e71f-4fe3-bda3-7870272bcfde",
+                        "name": "ExpertCollege",
+                        "color": "#81B1FF",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "08bf91fe-e4a9-4eb4-9301-a9b5f337d229",
+                        "name": "ExpertCollege Holding",
+                        "color": "#3082B7",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "b23b45a8-663c-419b-9743-4338e29f0517",
+                        "name": "ENI",
+                        "color": "#bf55ec",
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "76ad5323-54de-41f6-8578-c73cc83c89c7",
+                        "name": "ExpertFolio",
+                        "color": "#E65100",
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "bc10901f-e3e2-4e16-9c5e-65283a45ca45",
+                        "name": "SES Cebu",
+                        "color": "#1bbc9c",
+                        "orderindex": 4
+                    },
+                    {
+                        "id": "c953ffef-ebc3-4dd9-9e97-3eec419583ad",
+                        "name": "3D",
+                        "color": "#EA80FC",
+                        "orderindex": 5
+                    },
+                    {
+                        "id": "0fdd8d51-eb91-4c98-abe2-c90f02404832",
+                        "name": "All NL Companies",
+                        "color": "#04A9F4",
+                        "orderindex": 6
+                    },
+                    {
+                        "id": "8b555027-122f-4836-9933-763908947e26",
+                        "name": "Xpedite",
+                        "color": "#0231E8",
+                        "orderindex": 7
+                    },
+                    {
+                        "id": "d7e1de84-0462-4903-9878-cd30dfa04171",
+                        "name": "EHS",
+                        "color": "#ff7800",
+                        "orderindex": 8
+                    },
+                    {
+                        "id": "2ef1b58e-3028-4df1-9219-7cf84a48af13",
+                        "name": "ECH",
+                        "color": "#EA80FC",
+                        "orderindex": 9
+                    },
+                    {
+                        "id": "6a8b0181-de8a-497b-8c42-5ccb50a1d6a9",
+                        "name": "All",
+                        "color": "#667684",
+                        "orderindex": 10
+                    }
+                ]
+            },
+            "date_created": "1695710781590",
+            "hide_from_guests": false,
+            "value": 4,
+            "required": false
+        },
+        {
+            "id": "3c9d2881-43f7-445c-ab87-05c1017b59d4",
+            "name": "TYPE (FOR FINANCE)",
+            "type": "drop_down",
+            "type_config": {
+                "default": 0,
+                "placeholder": null,
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "329b523c-f9e3-4067-af74-9cca16f016ee",
+                        "name": "Maintenance",
+                        "color": "#3397dd",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "48712833-0ce9-4984-b1a1-3c6b7c1bb7df",
+                        "name": "Development",
+                        "color": "#FF7FAB",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "3ae241ec-88e2-40a9-ad5b-1f7f23ac52dd",
+                        "name": "Service",
+                        "color": "#AF7E2E",
+                        "orderindex": 2
+                    }
+                ]
+            },
+            "date_created": "1705506890856",
+            "hide_from_guests": false,
+            "value": 2,
+            "required": false
+        },
+        {
+            "id": "5aa78fb8-25fe-49eb-91be-b95d72b2b497",
+            "name": "DEPARTMENT (FOR FINANCE)",
+            "type": "drop_down",
+            "type_config": {
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "4105cd53-1f40-4d20-a70c-854a7533cc21",
+                        "name": "ENI Business Development Management",
+                        "color": "#a79c57",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "c06a67f5-16fd-4f15-b2e0-1ee3d5307596",
+                        "name": "ENI Board",
+                        "color": "#f9d900",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "48f0e752-178f-4a71-88e4-89c62df9cc8d",
+                        "name": "ENI Customer Service",
+                        "color": "#AF7E2E",
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "08ecdba7-3e1f-497c-83d9-708721c7c297",
+                        "name": "ENI Cost of Sales",
+                        "color": "#ff7800",
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "a68b50c7-b47b-439e-8b9a-8a3d84f9ef81",
+                        "name": "ENI Training Coordination",
+                        "color": "#E65100",
+                        "orderindex": 4
+                    },
+                    {
+                        "id": "b4ed82ee-0b8c-4145-9cb5-0b2196f12db5",
+                        "name": "ENI Facilities",
+                        "color": "#ca3232",
+                        "orderindex": 5
+                    },
+                    {
+                        "id": "3d66ac08-c19d-4ffd-8b24-5758bbea2b68",
+                        "name": "ENI Finance and Accounting",
+                        "color": "#FF4081",
+                        "orderindex": 6
+                    },
+                    {
+                        "id": "3d44ea2f-e386-4b2e-8ae6-a2c0709b3cf8",
+                        "name": "ENI HR",
+                        "color": "#FF7FAB",
+                        "orderindex": 7
+                    },
+                    {
+                        "id": "52c3767b-2a26-465c-8152-263fa6551303",
+                        "name": "ENI ICT",
+                        "color": "#9b59b6",
+                        "orderindex": 8
+                    },
+                    {
+                        "id": "7f39db19-2f88-4ac9-b027-534d7aa33bb9",
+                        "name": "ENI Management",
+                        "color": "#f900ea",
+                        "orderindex": 9
+                    },
+                    {
+                        "id": "c463f2d6-19e0-46f6-a02b-eac676e0a929",
+                        "name": "ENI Training Administration",
+                        "color": "#fb2e2e",
+                        "orderindex": 10
+                    },
+                    {
+                        "id": "fff0919a-43c4-469a-abac-74b0851a35aa",
+                        "name": "ExpertCollege Board",
+                        "color": "#1bbc9c",
+                        "orderindex": 11
+                    },
+                    {
+                        "id": "5fef5e22-fffb-4314-9d26-9dcb4a3051f9",
+                        "name": "ExpertCollege Product Management",
+                        "color": "#145e32",
+                        "orderindex": 12
+                    },
+                    {
+                        "id": "c2197c98-1a5c-4b7c-b1c5-427eca02ddce",
+                        "name": "ExpertCollege Cost of Sales",
+                        "color": "#1cb45a",
+                        "orderindex": 13
+                    },
+                    {
+                        "id": "7fd087d4-9f9b-4b6f-a875-05d8e0f71969",
+                        "name": "ExpertCollege Customer Service",
+                        "color": "#11b820",
+                        "orderindex": 14
+                    },
+                    {
+                        "id": "e91b8879-ae73-41b9-874e-6e68ceb3f840",
+                        "name": "ExpertCollege Development",
+                        "color": "#02BCD4",
+                        "orderindex": 15
+                    },
+                    {
+                        "id": "16a876e3-b2f0-4eda-af90-f4b9081cb11b",
+                        "name": "ExpertCollege Facilities",
+                        "color": "#3082B7",
+                        "orderindex": 16
+                    },
+                    {
+                        "id": "d7518778-7452-4ce8-8209-6c748439a682",
+                        "name": "ExpertCollege Accounting and Finance",
+                        "color": "#3397dd",
+                        "orderindex": 17
+                    },
+                    {
+                        "id": "45971a9c-ba56-4085-bdd6-9eb0444623e4",
+                        "name": "ExpertCollege HR",
+                        "color": "#81B1FF",
+                        "orderindex": 18
+                    },
+                    {
+                        "id": "57182afe-8bbe-48ab-9a4a-896d6840ba14",
+                        "name": "ExpertCollege ICT",
+                        "color": "#156389",
+                        "orderindex": 19
+                    },
+                    {
+                        "id": "bf54086a-44c9-440d-8a62-58e9bc17756e",
+                        "name": "ExpertCollege Management",
+                        "color": "#EA80FC",
+                        "orderindex": 20
+                    },
+                    {
+                        "id": "93d01b1f-70b7-4f43-82bd-afe4fe3cb108",
+                        "name": "ExpertCollege Marketing",
+                        "color": "#bf55ec",
+                        "orderindex": 21
+                    },
+                    {
+                        "id": "13594c89-3fa1-44c5-b76e-af73ec846a64",
+                        "name": "ExpertCollege Business Development Management",
+                        "color": "#9b59b6",
+                        "orderindex": 22
+                    },
+                    {
+                        "id": "ec6d1bb9-5044-4fa9-8783-837248b24d10",
+                        "name": "ExpertCollege Strategic Account Management",
+                        "color": "#7C4DFF",
+                        "orderindex": 23
+                    },
+                    {
+                        "id": "cf2c0cf9-7849-484d-844c-62beb3373d25",
+                        "name": "ExpertCollege Video Productions",
+                        "color": "#5d25f9",
+                        "orderindex": 24
+                    },
+                    {
+                        "id": "46d7e12f-493a-4f82-9c19-135c037b6955",
+                        "name": "EF Board",
+                        "color": "#440ddc",
+                        "orderindex": 25
+                    },
+                    {
+                        "id": "10a7a102-09b3-48f3-9764-5b0f438b28b0",
+                        "name": "EF Finance and Legal",
+                        "color": "#e7996e",
+                        "orderindex": 26
+                    },
+                    {
+                        "id": "ccd76781-263e-4d5b-bfd2-a1faacd1c8b9",
+                        "name": "EF ICT",
+                        "color": "#d06329",
+                        "orderindex": 27
+                    },
+                    {
+                        "id": "1523d7ac-bfb6-41f7-8cda-647ad733e4f6",
+                        "name": "EF Software Development",
+                        "color": "#a54410",
+                        "orderindex": 28
+                    },
+                    {
+                        "id": "1f420b2a-0bbd-4151-9b04-952a930dad74",
+                        "name": "EC Software Development",
+                        "color": "#FF4081",
+                        "orderindex": 29
+                    },
+                    {
+                        "id": "bb5886bb-7076-4c16-bac8-b07e91756054",
+                        "name": "OKL Board",
+                        "color": "#7db175",
+                        "orderindex": 30
+                    },
+                    {
+                        "id": "a0104b01-ac61-405d-a12d-73fccb06d2b7",
+                        "name": "OKL Live trainings",
+                        "color": "#4cb23d",
+                        "orderindex": 31
+                    },
+                    {
+                        "id": "763c54e3-258d-4bc5-a6e2-f7150f8b7874",
+                        "name": "OKL Facilities",
+                        "color": "#229111",
+                        "orderindex": 32
+                    },
+                    {
+                        "id": "929881d5-4744-490c-829d-0388adfedac0",
+                        "name": "OKL Financial and Legal",
+                        "color": "#137205",
+                        "orderindex": 33
+                    },
+                    {
+                        "id": "c94082de-6879-441e-a208-52364d8779b4",
+                        "name": "OKL HR",
+                        "color": "#904995",
+                        "orderindex": 34
+                    },
+                    {
+                        "id": "d4383d94-f8c8-484e-9379-5144163598d1",
+                        "name": "OKL ICT",
+                        "color": "#7C4DFF",
+                        "orderindex": 35
+                    },
+                    {
+                        "id": "5436c91d-c2ed-4fb8-a745-a80f9399348b",
+                        "name": "OKL Marketing",
+                        "color": "#FF4081",
+                        "orderindex": 36
+                    },
+                    {
+                        "id": "35f333cf-5d55-4832-a953-8157ed9f53b3",
+                        "name": "OKL Training Development",
+                        "color": "#FF7FAB",
+                        "orderindex": 37
+                    },
+                    {
+                        "id": "d46b6913-6554-485d-b6c4-f39f67bf1485",
+                        "name": "OKL Writer hours check",
+                        "color": "#6f0d99",
+                        "orderindex": 38
+                    },
+                    {
+                        "id": "43c7778c-3559-4478-a3f3-7ec8cfdb7841",
+                        "name": "ExpertCollege Data Entry",
+                        "color": "#1bbc9c",
+                        "orderindex": 39
+                    },
+                    {
+                        "id": "cf87bca2-0455-4f6d-9a26-a0e2675642a6",
+                        "name": "ExpertCollege Project Management/Coordination",
+                        "color": "#7AC0E2",
+                        "orderindex": 40
+                    },
+                    {
+                        "id": "4e16ce2a-219b-4898-bb5d-6ae549a14758",
+                        "name": "ENI Back-office",
+                        "color": "#3082B7",
+                        "orderindex": 41
+                    },
+                    {
+                        "id": "a13b4613-9a61-4d27-9cc9-d992d9d5e81f",
+                        "name": "Xpedite",
+                        "color": "#0231E8",
+                        "orderindex": 42
+                    },
+                    {
+                        "id": "abfe8e24-8eef-4af6-96be-39f18df45e20",
+                        "name": "N/A",
+                        "color": "#FF7FAB",
+                        "orderindex": 43
+                    },
+                    {
+                        "id": "cf0e3615-2473-4d37-8c46-77d788d5c389",
+                        "name": "SES Cebu Accounting and Finance",
+                        "color": "#b5bcc2",
+                        "orderindex": 44
+                    },
+                    {
+                        "id": "b9207861-8635-4baa-9c72-393a79da5997",
+                        "name": "All Departments",
+                        "color": null,
+                        "orderindex": 45
+                    },
+                    {
+                        "id": "4c3f7ac9-5c85-416e-8939-2f5dc9386c70",
+                        "name": "Xpertfolio",
+                        "color": "#58F98D",
+                        "orderindex": 46
+                    },
+                    {
+                        "id": "8bc802f7-89bf-455f-a51b-2e26e3b5a9fc",
+                        "name": "Xperfolio",
+                        "color": "#BE6F4E",
+                        "orderindex": 47
+                    },
+                    {
+                        "id": "ae1c5be4-e380-48e1-81ab-38e7296136e6",
+                        "name": "Hackathon",
+                        "color": "#163A6C",
+                        "orderindex": 48
+                    }
+                ]
+            },
+            "date_created": "1680682761830",
+            "hide_from_guests": false,
+            "value": 43,
+            "required": false
+        },
+        {
+            "id": "16b6ea0f-483c-4d9a-94c2-3aad3842648e",
+            "name": "PROJECT (FOR FINANCE)",
+            "type": "drop_down",
+            "type_config": {
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "d04c0dc1-9710-4dbd-a9c8-53ace13fd31a",
+                        "name": "Legal XPF-S",
+                        "color": "#f900ea",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "7810016e-5317-4e7b-94a5-3c5985dc97b9",
+                        "name": "Legal XPC-S",
+                        "color": "#51f10d",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "910797e6-8f66-4ef8-8c5d-68863ef0c4b2",
+                        "name": "Legal SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "33137b23-0401-40af-8d2f-a686005cad7e",
+                        "name": "Legal EN-S",
+                        "color": "#f9d900",
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "108d59ad-645a-4227-9fbd-39e3d557b228",
+                        "name": "Front-office All NL-S",
+                        "color": "#b5bcc2",
+                        "orderindex": 4
+                    },
+                    {
+                        "id": "8b4fc22c-8d29-43bc-afb4-cf990824eb10",
+                        "name": "Administration XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 5
+                    },
+                    {
+                        "id": "655600cc-da27-43bf-8ab1-270c2d7cad55",
+                        "name": "Facility XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 6
+                    },
+                    {
+                        "id": "f2be3dfa-b185-4252-8386-c4eb6fe98c4a",
+                        "name": "Education ENI-M",
+                        "color": "#02BCD4",
+                        "orderindex": 7
+                    },
+                    {
+                        "id": "2880fd47-69d5-4136-a3d6-451f4550ffc6",
+                        "name": "Management ENI-M",
+                        "color": "#02BCD4",
+                        "orderindex": 8
+                    },
+                    {
+                        "id": "d8049560-d7f1-4c35-b6ee-dd7efc00cb60",
+                        "name": "Graduation ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 9
+                    },
+                    {
+                        "id": "9415dbb3-d695-4de5-a04f-29bd51725933",
+                        "name": "Facility All-S",
+                        "color": "#bf55ec",
+                        "orderindex": 10
+                    },
+                    {
+                        "id": "6ae66538-02ee-4ea2-bd86-2bf302d1d228",
+                        "name": "Coordination ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 11
+                    },
+                    {
+                        "id": "ae2db299-17b4-46d5-965d-41b8d472aa12",
+                        "name": "Administration ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 12
+                    },
+                    {
+                        "id": "3bbddaa1-95af-4987-8e13-0f028f5d3a82",
+                        "name": "Administrative time EU All-S",
+                        "color": "#b5bcc2",
+                        "orderindex": 13
+                    },
+                    {
+                        "id": "c1b61bef-8cb9-43ee-9cc5-aab23161043f",
+                        "name": "Marketing content creation All NL-D",
+                        "color": "#b5bcc2",
+                        "orderindex": 14
+                    },
+                    {
+                        "id": "65b5f749-ad1b-4860-87ed-022186df0bed",
+                        "name": "Cater internal marketing requests All NL-M",
+                        "color": "#b5bcc2",
+                        "orderindex": 15
+                    },
+                    {
+                        "id": "a0714180-f813-49ae-962b-c7c2b1d33512",
+                        "name": "Creation of promotion material All NL-D",
+                        "color": "#b5bcc2",
+                        "orderindex": 16
+                    },
+                    {
+                        "id": "8909a754-5f73-4bd6-862f-adb482b1aebd",
+                        "name": "Setting up and executing campaigns All NL-D",
+                        "color": "#b5bcc2",
+                        "orderindex": 17
+                    },
+                    {
+                        "id": "393fc3cb-dfb4-49b7-9d8d-8472b9707968",
+                        "name": "IT Support EN-S",
+                        "color": "#f9d900",
+                        "orderindex": 18
+                    },
+                    {
+                        "id": "58b81af3-d727-4c6a-9b7b-40ffbcf9eb87",
+                        "name": "Finance EN-S",
+                        "color": "#f9d900",
+                        "orderindex": 19
+                    },
+                    {
+                        "id": "bca1260c-f8a1-44df-8101-848a15dad660",
+                        "name": "HR EU EN-S",
+                        "color": "#f9d900",
+                        "orderindex": 20
+                    },
+                    {
+                        "id": "b8e7ede5-1642-4192-a0e5-b5937110c9fc",
+                        "name": "Process Management EN-S",
+                        "color": "#f9d900",
+                        "orderindex": 21
+                    },
+                    {
+                        "id": "a8279ebc-4364-4ea8-94e8-7c8160533ac0",
+                        "name": "IT Support XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 22
+                    },
+                    {
+                        "id": "fa50bc44-6221-4c05-ab63-e1b2e9c84d87",
+                        "name": "Video production XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 23
+                    },
+                    {
+                        "id": "294cdaee-19c1-45fb-8e52-7740cf9ffa92",
+                        "name": "Product management XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 24
+                    },
+                    {
+                        "id": "391ac9f0-6553-41f7-8dce-6fbcece1d868",
+                        "name": "Product management XD-M",
+                        "color": "#2ecd6f",
+                        "orderindex": 25
+                    },
+                    {
+                        "id": "46f837bb-f59a-41c3-adba-abe8f709a72d",
+                        "name": "Back Office Xpedite Consultancy XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 26
+                    },
+                    {
+                        "id": "f22881a1-1c56-4e88-945f-299934a863e5",
+                        "name": "Setting up and executing campaigns XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 27
+                    },
+                    {
+                        "id": "76c18d50-1b47-4c81-9740-4ef4881af174",
+                        "name": "Cater internal marketing requests XD-M",
+                        "color": "#2ecd6f",
+                        "orderindex": 28
+                    },
+                    {
+                        "id": "e8ef9c94-ff77-4dab-9580-b184978dfd37",
+                        "name": "Creation of promotion material XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 29
+                    },
+                    {
+                        "id": "4a15b2f8-8fe1-4d3b-8701-5430052f4864",
+                        "name": "Run paid campaigns XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 30
+                    },
+                    {
+                        "id": "f488d9be-6b63-446a-a3bf-0a5c5c33aad3",
+                        "name": "Organizing events XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 31
+                    },
+                    {
+                        "id": "fecb2aef-e66e-46a9-9cd5-75eb31cc1368",
+                        "name": "Marketing content creation XD-D",
+                        "color": "#2ecd6f",
+                        "orderindex": 32
+                    },
+                    {
+                        "id": "ce568bb6-dbf5-4aa3-8b2a-a706ab082bec",
+                        "name": "Process Management XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 33
+                    },
+                    {
+                        "id": "39e8c665-8667-43fe-93a5-d61250264241",
+                        "name": "Video production EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 34
+                    },
+                    {
+                        "id": "9967cd64-6a26-492e-9845-8ade421ce213",
+                        "name": "Product management EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 35
+                    },
+                    {
+                        "id": "a51d0a65-4a81-4780-9d29-586411390e95",
+                        "name": "Product management EF-M",
+                        "color": "#ff7800",
+                        "orderindex": 36
+                    },
+                    {
+                        "id": "fca1abc0-ca5d-4b40-a702-cec4f9f3d953",
+                        "name": "Setting up and executing campaigns EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 37
+                    },
+                    {
+                        "id": "50f80f4e-4da8-4aea-9271-2eeccda0bb26",
+                        "name": "Cater internal marketing requests EF-M",
+                        "color": "#ff7800",
+                        "orderindex": 38
+                    },
+                    {
+                        "id": "c40639ac-5dce-44b0-b365-35932c498ace",
+                        "name": "Creation of promotion material EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 39
+                    },
+                    {
+                        "id": "928ffca6-bb04-46d9-97d6-c70112cf0e5b",
+                        "name": "Marketing content creation EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 40
+                    },
+                    {
+                        "id": "ea70d62f-ee58-4af7-93a3-e8ee757c33d4",
+                        "name": "HR EU XD-S",
+                        "color": "#ff7800",
+                        "orderindex": 41
+                    },
+                    {
+                        "id": "c4d702cb-980a-48cd-a6b4-563ce1b20c6d",
+                        "name": "Process Management EF-S",
+                        "color": "#ff7800",
+                        "orderindex": 42
+                    },
+                    {
+                        "id": "13507eeb-9b06-4ebb-8a3d-95ac6d408c80",
+                        "name": "Video production ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 43
+                    },
+                    {
+                        "id": "4cf423c4-607f-437c-903e-3bfcfa0eb657",
+                        "name": "Video production ENI-M",
+                        "color": "#02BCD4",
+                        "orderindex": 44
+                    },
+                    {
+                        "id": "56397202-0cf1-47ba-91f0-27ab1c8d8f53",
+                        "name": "Product management ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 45
+                    },
+                    {
+                        "id": "23a3d5db-07b9-4e44-a449-85077c0a4a90",
+                        "name": "Product management ENI-M",
+                        "color": "#02BCD4",
+                        "orderindex": 46
+                    },
+                    {
+                        "id": "7f8b6766-edfb-4b4c-ad82-39e32772a3fa",
+                        "name": "Setting up and executing campaigns ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 47
+                    },
+                    {
+                        "id": "b996a03e-8fe8-41a1-b3ff-0fdee9437717",
+                        "name": "Cater internal marketing requests ENI-M",
+                        "color": "#02BCD4",
+                        "orderindex": 48
+                    },
+                    {
+                        "id": "70376c58-2a16-4425-9f0b-c8c0d6ecc9a5",
+                        "name": "Creation of promotion material ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 49
+                    },
+                    {
+                        "id": "5b557eef-c48f-4cc9-8710-ae1d31f2286b",
+                        "name": "Organizing events ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 50
+                    },
+                    {
+                        "id": "b5dd58ae-d010-40ce-83da-15fe6de4338c",
+                        "name": "Marketing content creation ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 51
+                    },
+                    {
+                        "id": "57d03930-bf09-4123-8581-d91a8f5adbcf",
+                        "name": "HR EU ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 52
+                    },
+                    {
+                        "id": "378a2df0-fa59-4122-95e9-9623dbbe5963",
+                        "name": "Process Management ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 53
+                    },
+                    {
+                        "id": "c74554b1-b15d-40e5-b2d4-ee17693a902a",
+                        "name": "Video production EC-D",
+                        "color": "#800000",
+                        "orderindex": 54
+                    },
+                    {
+                        "id": "edf57691-3aee-4205-9de0-3449977e5292",
+                        "name": "Video production EC-M",
+                        "color": "#800000",
+                        "orderindex": 55
+                    },
+                    {
+                        "id": "affc70ac-ff66-48e8-9707-26a101d990ec",
+                        "name": "Product management EC-D",
+                        "color": "#800000",
+                        "orderindex": 56
+                    },
+                    {
+                        "id": "23015cc9-33a1-4e93-84c4-724ab0720cb2",
+                        "name": "Product management EC-M",
+                        "color": "#800000",
+                        "orderindex": 57
+                    },
+                    {
+                        "id": "30b94dd8-9b98-45ee-8f21-be0b3e2d1242",
+                        "name": "Setting up and executing campaigns EC-D",
+                        "color": "#800000",
+                        "orderindex": 58
+                    },
+                    {
+                        "id": "a810679e-b67a-4479-a300-5a4475ecabec",
+                        "name": "Cater internal marketing requests EC-M",
+                        "color": "#800000",
+                        "orderindex": 59
+                    },
+                    {
+                        "id": "4a6586ad-1261-4080-b5c4-947f1477fb05",
+                        "name": "Creation of promotion material EC-D",
+                        "color": "#800000",
+                        "orderindex": 60
+                    },
+                    {
+                        "id": "99c9eed1-9d3e-4880-96ca-58c05bd9c446",
+                        "name": "Organizing events EC-D",
+                        "color": "#800000",
+                        "orderindex": 61
+                    },
+                    {
+                        "id": "1548fa67-8647-4ea5-ace0-593e1f52c2e4",
+                        "name": "Marketing content creation EC-D",
+                        "color": "#800000",
+                        "orderindex": 62
+                    },
+                    {
+                        "id": "ff3924d2-1f63-4488-8a23-d6af67fb2d81",
+                        "name": "Process Management EC-S",
+                        "color": "#800000",
+                        "orderindex": 63
+                    },
+                    {
+                        "id": "ed06d29c-e1d9-4d4c-bbc2-e0dc7922aca2",
+                        "name": "HR EU EC-S",
+                        "color": "#800000",
+                        "orderindex": 64
+                    },
+                    {
+                        "id": "86b4b99c-1018-40b0-a779-ff5c8d5b01f8",
+                        "name": "2D illustration e-learning EC-M",
+                        "color": "#800000",
+                        "orderindex": 65
+                    },
+                    {
+                        "id": "0a7d99f4-8908-4641-90c8-c08a3ec2d62d",
+                        "name": "2D illustration e-learning EC-D ",
+                        "color": "#800000",
+                        "orderindex": 66
+                    },
+                    {
+                        "id": "2a2455f7-6368-4b13-a058-b318e40edd9e",
+                        "name": "2D Graphic Design EC-D ",
+                        "color": "#800000",
+                        "orderindex": 67
+                    },
+                    {
+                        "id": "d40637bc-82e7-4703-8846-8f013cd93303",
+                        "name": "2D Graphic Design EC-M",
+                        "color": "#800000",
+                        "orderindex": 68
+                    },
+                    {
+                        "id": "0327d3d3-03e7-4425-8ed0-720c36a22a12",
+                        "name": "Data entry e-learning creation EC-D ",
+                        "color": "#800000",
+                        "orderindex": 69
+                    },
+                    {
+                        "id": "5491812d-d7ee-49b6-b7e3-f82c0a4d8144",
+                        "name": "Data entry updating e-learning EC-M ",
+                        "color": "#800000",
+                        "orderindex": 70
+                    },
+                    {
+                        "id": "d55b7def-faeb-4d35-91e0-72c4e42bd645",
+                        "name": "Data entry ExpertCollege EC-S",
+                        "color": "#800000",
+                        "orderindex": 71
+                    },
+                    {
+                        "id": "2d3e89a4-b7f2-40e5-b310-3e0deca85c12",
+                        "name": "Support mbo/hbo/hospitals EC-S ",
+                        "color": "#800000",
+                        "orderindex": 72
+                    },
+                    {
+                        "id": "576d9567-ca79-467c-abc1-6161e08e023c",
+                        "name": "Website ExpertCollege EC-D ",
+                        "color": "#800000",
+                        "orderindex": 73
+                    },
+                    {
+                        "id": "2963c9a4-e50b-4c48-af7e-1d15592b8510",
+                        "name": "Marketing videos EC-S ",
+                        "color": "#800000",
+                        "orderindex": 74
+                    },
+                    {
+                        "id": "4037acb5-9e16-4897-bc06-ce297a169ef6",
+                        "name": "Legal ExpertCollege EC-S ",
+                        "color": "#800000",
+                        "orderindex": 75
+                    },
+                    {
+                        "id": "882413ea-6242-4f41-b0c1-55b61e287737",
+                        "name": "Finance ExpertCollege EC-S ",
+                        "color": "#800000",
+                        "orderindex": 76
+                    },
+                    {
+                        "id": "18ec1375-9392-4389-b842-e8baf879a9d9",
+                        "name": "Coordination ExpertCollege EC-S",
+                        "color": "#800000",
+                        "orderindex": 77
+                    },
+                    {
+                        "id": "d44f29af-a24c-4451-8ffd-74cd187eb1c9",
+                        "name": "Project Management ExpertCollege EC-S ",
+                        "color": "#800000",
+                        "orderindex": 78
+                    },
+                    {
+                        "id": "3c4f232a-8317-4cb4-a788-2c6fffd1c375",
+                        "name": "Back-office ExpertCollege EC-S ",
+                        "color": "#800000",
+                        "orderindex": 79
+                    },
+                    {
+                        "id": "f3fe93cd-967b-417c-8daf-ed0642ad4941",
+                        "name": "QA ExpertCollege EC-S",
+                        "color": "#800000",
+                        "orderindex": 80
+                    },
+                    {
+                        "id": "5d7c51ed-bd75-4aed-92b6-51bc918a1103",
+                        "name": "IT Support EC-S",
+                        "color": "#800000",
+                        "orderindex": 81
+                    },
+                    {
+                        "id": "b0054d2c-d20f-4d75-9eab-92bb1ae9b2be",
+                        "name": "Support ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 82
+                    },
+                    {
+                        "id": "29d961c0-8a7e-46cf-aa87-28af7dfbb060",
+                        "name": "Back-office ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 83
+                    },
+                    {
+                        "id": "f83062b1-2eaa-4124-8c14-54668458412d",
+                        "name": "Website ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 84
+                    },
+                    {
+                        "id": "dcbfde93-ab1d-48ce-9871-7df3788f2670",
+                        "name": "Legal ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 85
+                    },
+                    {
+                        "id": "2df45b8d-4210-4629-8707-9c7e492ada22",
+                        "name": "Finance ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 86
+                    },
+                    {
+                        "id": "60f7a743-3180-4135-9a51-811e61ff0812",
+                        "name": "Project management ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 87
+                    },
+                    {
+                        "id": "e2ebd800-df8b-4550-a5b9-520e167ccc19",
+                        "name": "IT Support ENI-S",
+                        "color": "#02BCD4",
+                        "orderindex": 88
+                    },
+                    {
+                        "id": "c5a181b4-7bb2-46b1-be74-3d6b5f3c4f8e",
+                        "name": "2D Graphic Design ENI-D",
+                        "color": "#02BCD4",
+                        "orderindex": 89
+                    },
+                    {
+                        "id": "d200e84d-5a68-4fbc-b4f2-5b4ac5d140a9",
+                        "name": "2D Graphic Design ENI-M",
+                        "color": "#02BCD4",
+                        "orderindex": 90
+                    },
+                    {
+                        "id": "5a3bf549-4a19-40dc-86f1-7748914dbe18",
+                        "name": "Support ExpertFolio EF-S ",
+                        "color": "#ff7800",
+                        "orderindex": 91
+                    },
+                    {
+                        "id": "a2d031d9-62c9-4bd1-ab81-19813612ae8a",
+                        "name": "Back-office ExpertFolio EF-S ",
+                        "color": "#ff7800",
+                        "orderindex": 92
+                    },
+                    {
+                        "id": "4a01e2d4-b9fc-4642-aff7-9cd429ed9000",
+                        "name": "Website ExpertFolio EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 93
+                    },
+                    {
+                        "id": "cf4fae91-180c-437b-af25-635a3157befa",
+                        "name": "Legal ExpertFolio EF-S ",
+                        "color": "#ff7800",
+                        "orderindex": 94
+                    },
+                    {
+                        "id": "9e917b2d-a14b-434e-ba98-f23cb49e8b31",
+                        "name": "Finance ExpertFolio EF-S ",
+                        "color": "#ff7800",
+                        "orderindex": 95
+                    },
+                    {
+                        "id": "f54f1f1b-20b7-4d12-811b-df5d5b870b86",
+                        "name": "Project management ExpertFolio EF-S ",
+                        "color": "#ff7800",
+                        "orderindex": 96
+                    },
+                    {
+                        "id": "c62763a8-7c52-4bf4-b301-39a172186479",
+                        "name": "QA ExpertFolio EF-S",
+                        "color": "#ff7800",
+                        "orderindex": 97
+                    },
+                    {
+                        "id": "e5fd70f5-1983-481b-882e-c9f353f07f17",
+                        "name": "IT Support EF-S",
+                        "color": "#ff7800",
+                        "orderindex": 98
+                    },
+                    {
+                        "id": "10a68d1d-6da8-4ba0-a8ad-8944a3f5c4b5",
+                        "name": "IT Support EF-D",
+                        "color": "#ff7800",
+                        "orderindex": 99
+                    },
+                    {
+                        "id": "32877fc5-d679-46ef-9493-f2cee1484421",
+                        "name": "Video production AIA XD-D ",
+                        "color": "#2ecd6f",
+                        "orderindex": 100
+                    },
+                    {
+                        "id": "0f4fa3df-5271-4305-a8f6-3717dba91948",
+                        "name": "EVE exercise creation XD-D ",
+                        "color": "#2ecd6f",
+                        "orderindex": 101
+                    },
+                    {
+                        "id": "03a27050-3a73-4b9b-bf69-08d744b40ee6",
+                        "name": "Website Xpedite XD-D ",
+                        "color": "#2ecd6f",
+                        "orderindex": 102
+                    },
+                    {
+                        "id": "f79efdc2-b827-4646-8097-e3e49e318532",
+                        "name": "R&D AI XD-D ",
+                        "color": "#2ecd6f",
+                        "orderindex": 103
+                    },
+                    {
+                        "id": "b0d22a74-5df7-4575-b255-e4bda0d15cc9",
+                        "name": "Course creation AIA Data team XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 104
+                    },
+                    {
+                        "id": "aee242b9-7a3a-463b-90f2-bc9e57458eca",
+                        "name": "Legal Xpedite XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 105
+                    },
+                    {
+                        "id": "2f03cd79-b569-4c00-af6e-0fde20f00a78",
+                        "name": "Finance Xpedite XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 106
+                    },
+                    {
+                        "id": "2f0eb514-6d91-4860-a86c-aae7bc4cab6e",
+                        "name": "Project management Xpedite XD-S",
+                        "color": "#2ecd6f",
+                        "orderindex": 107
+                    },
+                    {
+                        "id": "79c4b179-f35e-456f-a8a6-adba8813cd2c",
+                        "name": "ARIA human anatomy 3D-D ",
+                        "color": "#FF7FAB",
+                        "orderindex": 108
+                    },
+                    {
+                        "id": "bd47cc1a-0e07-44ce-87f4-4dd6c466cfb3",
+                        "name": "Mocap related 3D-D ",
+                        "color": "#FF7FAB",
+                        "orderindex": 109
+                    },
+                    {
+                        "id": "27318cd2-2158-4252-b621-8826c2587162",
+                        "name": "Project management 3D-S ",
+                        "color": "#FF7FAB",
+                        "orderindex": 110
+                    },
+                    {
+                        "id": "ccb33fb3-ccca-4021-b3f3-7c6fdcfca01a",
+                        "name": "Anatomy&Physiology Expert Edition 3D-D",
+                        "color": "#FF7FAB",
+                        "orderindex": 111
+                    },
+                    {
+                        "id": "6663b4d2-20a3-4f44-86fc-aa663a388b2a",
+                        "name": "Design lecture room 3D-D",
+                        "color": "#FF7FAB",
+                        "orderindex": 112
+                    },
+                    {
+                        "id": "c8f03471-2f94-4569-b79f-27fdf036631f",
+                        "name": "Hour registration project All-S",
+                        "color": "#bf55ec",
+                        "orderindex": 113
+                    },
+                    {
+                        "id": "2ace6036-f0ae-4cc7-b531-d93897edfdc7",
+                        "name": "Video production ALL-D",
+                        "color": "#bf55ec",
+                        "orderindex": 114
+                    },
+                    {
+                        "id": "2c255035-1f78-4c5b-b2b5-652810aa133a",
+                        "name": "Process Management All-S",
+                        "color": "#bf55ec",
+                        "orderindex": 115
+                    },
+                    {
+                        "id": "50ae81e9-10dc-47f9-bbd9-6033bfbac2ce",
+                        "name": "Scaling Up All-S ",
+                        "color": "#bf55ec",
+                        "orderindex": 116
+                    },
+                    {
+                        "id": "8908024f-6735-424d-b4ca-8d921c9c7935",
+                        "name": "Support All-S",
+                        "color": "#bf55ec",
+                        "orderindex": 117
+                    },
+                    {
+                        "id": "97d423a2-9d25-493f-b08d-ed3afcf71824",
+                        "name": "HR All NL - S",
+                        "color": "#bf55ec",
+                        "orderindex": 118
+                    },
+                    {
+                        "id": "97825e8f-3580-4c6a-884d-cc0592cafc37",
+                        "name": "Visual management All-S",
+                        "color": "#bf55ec",
+                        "orderindex": 119
+                    },
+                    {
+                        "id": "fe8eafdc-2432-4161-a59e-e063803f0fc1",
+                        "name": "2D Graphic Design All-D",
+                        "color": "#bf55ec",
+                        "orderindex": 120
+                    },
+                    {
+                        "id": "c585be68-c6c2-4dd0-95cb-6485a126cbb6",
+                        "name": "2D Graphic Design All-M",
+                        "color": "#bf55ec",
+                        "orderindex": 121
+                    },
+                    {
+                        "id": "3982cc38-9b04-4320-98c1-f391f82dbfee",
+                        "name": "Advanced GPT building All-D",
+                        "color": "#bf55ec",
+                        "orderindex": 122
+                    },
+                    {
+                        "id": "7efa93aa-24a1-4b3e-9509-ae1c6a7e2f2e",
+                        "name": "Administrative SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 123
+                    },
+                    {
+                        "id": "ce4237e9-582f-4a45-a182-51822e253dc9",
+                        "name": "Idle time SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 124
+                    },
+                    {
+                        "id": "06b5eb6e-2ae8-4e73-ba94-2aff0ba5bc5d",
+                        "name": "Leave/Holiday SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 125
+                    },
+                    {
+                        "id": "23560472-eee7-4dab-ba65-8beb80cd917f",
+                        "name": "2D Graphic Design SES-D",
+                        "color": "#3397dd",
+                        "orderindex": 126
+                    },
+                    {
+                        "id": "cecbbfc9-28cc-4483-8c05-cd63fab5c9ed",
+                        "name": "2D Graphic Design SES-M",
+                        "color": "#3397dd",
+                        "orderindex": 127
+                    },
+                    {
+                        "id": "c21108c1-b576-40b9-bad2-e28f98377fd5",
+                        "name": "HR Cebu SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 128
+                    },
+                    {
+                        "id": "5f504f41-8d2d-4d78-ad94-7ef924817b11",
+                        "name": "Operational Cebu SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 129
+                    },
+                    {
+                        "id": "25c2dfd4-1ba0-4cbd-a36c-1aabe0acddbb",
+                        "name": "IT Support Cebu SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 130
+                    },
+                    {
+                        "id": "0348263a-3a4d-4517-acfa-4727f99ad4f1",
+                        "name": "Finance SES-S",
+                        "color": "#3397dd",
+                        "orderindex": 131
+                    },
+                    {
+                        "id": "f9225c38-864a-48b1-bfd8-90b41c37aca2",
+                        "name": "Finance ECHBV-S",
+                        "color": "#AF7E2E",
+                        "orderindex": 132
+                    },
+                    {
+                        "id": "1a9b371e-98c8-4d32-a85d-f32a26ece4a0",
+                        "name": "New Project",
+                        "color": "#1bbc9c",
+                        "orderindex": 133
+                    }
+                ]
+            },
+            "date_created": "1705069738609",
+            "hide_from_guests": true,
+            "value": 123,
+            "required": false
+        },
+        {
+            "id": "51d831d7-8398-4938-8207-f0bd4767b8c5",
+            "name": "DESIGN CATEGORY",
+            "type": "drop_down",
+            "type_config": {
+                "new_drop_down": true,
+                "options": [
+                    {
+                        "id": "a11099fb-5879-4035-8c43-8c73416c8a61",
+                        "name": "Creation of New Design from Reference Image",
+                        "color": "#f9d900",
+                        "orderindex": 0
+                    },
+                    {
+                        "id": "ece6a211-9126-4f89-a64f-6ebc582a6d13",
+                        "name": "Revision of Existing Design",
+                        "color": "#e50000",
+                        "orderindex": 1
+                    },
+                    {
+                        "id": "2c305ba3-418e-4061-9ed6-62c7a39f8af7",
+                        "name": "Direct Usage of Shutterstock Image for e-Learning Layout ",
+                        "color": "#0231E8",
+                        "orderindex": 2
+                    },
+                    {
+                        "id": "63fb1221-7845-485f-80a0-e5b65bfcd737",
+                        "name": "Presentation Layout & Design",
+                        "color": "#02BCD4",
+                        "orderindex": 3
+                    },
+                    {
+                        "id": "b0d1a913-3419-485f-8ced-866e46be5a58",
+                        "name": "Graphic Collateral (Course Covers, Diplomas, Forms, etc.)",
+                        "color": "#FF4081",
+                        "orderindex": 4
+                    },
+                    {
+                        "id": "0370b41d-43a2-4abc-9c3b-9f8f53dd3503",
+                        "name": "Creation of New Design + Revision of Existing Design",
+                        "color": "#E65100",
+                        "orderindex": 5
+                    },
+                    {
+                        "id": "6ef45f36-84da-42c9-be1f-7feb0477b77f",
+                        "name": "Creation of New Design + Direct Usage of Shutterstock Image",
+                        "color": "#2ecd6f",
+                        "orderindex": 6
+                    },
+                    {
+                        "id": "58a9635d-8c6d-4b2a-837b-583424b12b4b",
+                        "name": "Revision of Existing Design + Direct Usage of Shutterstock Image",
+                        "color": "#9b59b6",
+                        "orderindex": 7
+                    },
+                    {
+                        "id": "5bb8812c-6096-4913-92a0-10a817387163",
+                        "name": "Others (specify instructions on Description Box)",
+                        "color": "#667684",
+                        "orderindex": 8
+                    },
+                    {
+                        "id": "fad56d36-6460-414c-9a2c-5dc9123a963b",
+                        "name": "Workshop",
+                        "color": "#5E4546",
+                        "orderindex": 9
+                    },
+                    {
+                        "id": "3e5f9cf1-38ff-48c4-94e5-7a1c1fdf72b1",
+                        "name": "Tracking Time and time estimate",
+                        "color": "#7A0A7B",
+                        "orderindex": 10
+                    }
+                ]
+            },
+            "date_created": "1619516378426",
+            "hide_from_guests": false,
+            "value": 8,
+            "required": true
+        }
+    ],
+    "dependencies": [],
+    "linked_tasks": [],
+    "locations": [],
+    "team_id": "3845601",
+    "url": "https://app.clickup.com/t/86enw80ya",
+    "sharing": {
+        "public": false,
+        "public_share_expires_on": null,
+        "public_fields": [
+            "assignees",
+            "priority",
+            "due_date",
+            "content",
+            "comments",
+            "attachments",
+            "customFields",
+            "subtasks",
+            "tags",
+            "checklists",
+            "coverimage"
+        ],
+        "token": null,
+        "seo_optimized": false
+    },
+    "permission_level": "create",
+    "list": {
+        "id": "24642314",
+        "name": "Miscellaneous Design Requests",
+        "access": true
+    },
+    "project": {
+        "id": "110338987",
+        "name": "Special Projects",
+        "hidden": false,
+        "access": true
+    },
+    "folder": {
+        "id": "110338987",
+        "name": "Special Projects",
+        "hidden": false,
+        "access": true
+    },
+    "space": {
+        "id": "5827423"
+    }
+}
